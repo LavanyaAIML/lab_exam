@@ -4,3 +4,11 @@ int a=10,b=20;
 int c=a+b;
 printf("Result=%d",c);
 }
+
+//subtraction
+#include<stdio.h>
+main(){
+int a=20,b=10;
+int c=a-b;
+printf("Result=%d",c);
+}
